@@ -1,4 +1,4 @@
 const pets=["Milo", "Otis", "Garfield"];
-const allPets=[...pets, "Odie"];
+pets.pop=["Odie"];
 pet;
 allPets;
