@@ -1,3 +1,3 @@
-const pets=["Milo", "Otis", "Garfield"];
-pets.pop=["Odie"];
+const pets=['Milo', 'Otis', 'Garfield'];
+pets.pop=['Odie'];
 pets;
