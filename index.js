@@ -1,2 +1,4 @@
-// Write your solution here!
-document.getElementsById('mocha')
+let pets=['Milo', 'Otis', 'Garfield'];
+let allPets=[...pets, 'Odie'];
+pet;
+allPets;
